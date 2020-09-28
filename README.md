@@ -1,8 +1,8 @@
 # Particle Showcase
 
-For excellent quality, download the unity project and open Scenes/ParticleScene.
+For excellent quality, download the unity project and open [Assets/Scenes/ParticleScene](https://github.com/Yrtna/ParticleShowcase_unity/blob/master/Assets/Scenes/ParticleScene.unity).
 
-For medium quality, follow the Youtube links.
+For medium quality, follow the Youtube links, or this [playlist](https://www.youtube.com/playlist?list=PLwYdxWeNZ36ownmdcZ9rshYTmk_zIrr1b).
 
 For bad quality, look at these images.
 
