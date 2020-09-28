@@ -6,6 +6,8 @@ For medium quality, follow the Youtube links, or this [playlist](https://www.you
 
 For bad quality, look at these images.
 
+Everything if made from scratch using materials from [Unity Particle Pack](https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-5-x-73777)
+
 ## Embers
 [![Image](https://img.youtube.com/vi/YciBUZ64dVs/0.jpg)](https://youtu.be/YciBUZ64dVs)
 
