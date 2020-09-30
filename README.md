@@ -1,7 +1,5 @@
 # Particle Showcase
 
-> Post-processing is Disabled to show raw effects
-
 For excellent quality, download the unity project and open [Assets/Scenes/ParticleScene](https://github.com/Yrtna/ParticleShowcase_unity/blob/master/Assets/Scenes/ParticleScene.unity).
 
 Every effect is made from scratch using materials from [Unity Particle Pack](https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-5-x-73777)
