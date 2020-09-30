@@ -6,7 +6,7 @@ Every effect is made from scratch using materials from [Unity Particle Pack](htt
 
 
 ## Embers
-![Image](/Images/Embers.png)]
+![Image](/Images/Embers.png)
 
 ## Fire
 ![Image](/Images/Fire.png)
