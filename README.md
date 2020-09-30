@@ -4,6 +4,17 @@ For excellent quality, download the unity project and open [Assets/Scenes/Partic
 
 Every effect is made from scratch using materials from [Unity Particle Pack](https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-5-x-73777)
 
+## Table of Contents
+
+* [Embers](#embers)
+* [Fire](#fire)
+* [Torch](#torch)
+* [Flamethrower](#flamethrower)
+* [Waterfall](#waterfall)
+* [Rain 1](#rain1)
+* [Rain 2](#rain2)
+* [Sparks](#sparks)
+* [Smoke](#smoke)
 
 ## Embers
 ![Image](/Images/Embers.png)
